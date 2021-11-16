@@ -1,0 +1,42 @@
+{
+  "name": "amine.im",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "axios": "^0.24.0",
+    "framer-motion": "^5.2.0",
+    "next": "^12.0.2",
+    "next-seo": "^4.28.1",
+    "next-themes": "^0.0.15",
+    "npm-check-updates": "^11.8.5",
+    "nprogress": "^0.2.0",
+    "react": "^17.0.2",
+    "react-animated-cursor": "^2.2.0",
+    "react-dom": "^17.0.2",
+    "react-fade-in": "^2.0.1",
+    "react-hook-form": "^7.18.1",
+    "styled-jsx-plugin-postcss": "^4.0.1",
+    "swr": "^1.0.1",
+    "tailwindcss-border-gradient-radius": "^2.0.0",
+    "url-loader": "^4.1.1",
+    "use-sound": "^4.0.1"
+  },
+  "devDependencies": {
+    "@next/bundle-analyzer": "^12.0.2",
+    "@types/node": "^16.11.6",
+    "@types/react": "^17.0.34",
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "prettier": "^2.4.1",
+    "tailwindcss": "^2.2.19",
+    "typescript": "^4.4.4"
+  },
+  "license": "ISC"
+}

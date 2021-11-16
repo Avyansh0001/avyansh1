@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://amine.im">
-    <img src="https://amine.im/favicon.svg" height="96">
-    <h3 align="center">amine.im</h3>
-  </a>
-  <p align="center">My Personal Portfolio Next.JS TailwindCSS</p>
-</p>
+
 
 ## Installation
 

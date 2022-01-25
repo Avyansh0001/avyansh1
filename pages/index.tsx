@@ -18,7 +18,7 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="Avyansh Ralph"
+          title="Avyansh"
           description="13 year old graphic designer and web developer working on Elixir and Typescript..."
         />
       }

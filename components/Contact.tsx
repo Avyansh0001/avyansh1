@@ -27,7 +27,7 @@ const Contact = () => {
 
   const onSubmit = (data) =>
     window.open(
-      `mailto:dev@avyanshralph.xyz?body=${encodeURIComponent(
+      `mailto:me@avyansh.codes?body=${encodeURIComponent(
         `[Mail] \n\n Name: ${data.name} \n Mail: ${data.email} \n\n${data.message}`
       )}`
     );
